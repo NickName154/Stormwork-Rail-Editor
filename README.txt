@@ -6,6 +6,7 @@ Always and i do mean ALWAYS make a backup of your tiles before using this tool!
 ## Getting started ##
 An example mesh is given
 Make sure your export mesh only has vertexes and edges
+Lift your mesh about 0.05m off your collider surface to prevent implosions.
 Export your track mesh as a ASCII .ply file
 
 Import it into the tool
