@@ -1,3 +1,6 @@
+Disclaimer: This is made using ChatGPT this is just a personal tool i got to help me and decided to share it for others having the same issue.
+
+
 Always and i do mean ALWAYS make a backup of your tiles before using this tool!
 
 ## Getting started ##
