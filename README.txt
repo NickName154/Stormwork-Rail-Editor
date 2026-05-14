@@ -3,6 +3,10 @@ Disclaimer: This is made using ChatGPT this is just a personal tool i got to hel
 
 Always and i do mean ALWAYS make a backup of your tiles before using this tool!
 
+-- Dependencies:
+This tool uses PyQT6, it should automatically install it, however if it fails you can run this in your command prompt:
+"python -m pip install PyQt6"
+
 ## Getting started ##
 An example mesh is given
 Make sure your export mesh only has vertexes and edges
